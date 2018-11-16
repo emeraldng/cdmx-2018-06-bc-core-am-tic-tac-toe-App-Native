@@ -50,7 +50,7 @@
             android:id="@+id/button_00"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@drawable/Peppa"
+            android:background="@color/colorAccent"
             android:layout_weight="1"
             android:textSize="60sp" />
 
@@ -58,7 +58,7 @@
             android:id="@+id/button_01"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@drawable/george"
+
             android:layout_weight="1"
             android:textSize="60sp" />
 
@@ -66,7 +66,7 @@
             android:id="@+id/button_02"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@drawable/Peppa"
+            android:background="@color/colorAccent"
             android:layout_weight="1"
             android:textSize="60sp" />
 
@@ -83,7 +83,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="60sp"
-            android:background="@drawable/george"/>
+            />
 
         <Button
             android:id="@+id/button_11"
@@ -91,14 +91,14 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="60sp"
-            android:background="@drawable/Peppa"/>
+            android:background="@color/colorAccent"/>
 
         <Button
             android:id="@+id/button_12"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/george"
+
             android:textSize="60sp" />
 
     </LinearLayout>
@@ -111,7 +111,7 @@
             android:id="@+id/button_20"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@drawable/Peppa"
+            android:background="@color/colorAccent"
             android:layout_weight="1"
 
             android:textSize="60sp" />
@@ -121,14 +121,14 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/george"
+
             android:textSize="60sp" />
 
         <Button
             android:id="@+id/button_22"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@drawable/Peppa"
+            android:background="@color/colorAccent"
             android:layout_weight="1"
             android:textSize="60sp" />
 
